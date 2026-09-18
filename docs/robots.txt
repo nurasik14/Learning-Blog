@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:41909/Learning-Blog/sitemap.xml
+Sitemap: https://nurasik14.github.io/Learning-Blog/sitemap.xml
