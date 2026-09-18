@@ -79,6 +79,6 @@ git commit -m "$msg"
 
 # Push
 echo -e "${GREEN}Pushing to GitHub...${NC}"
-git push origin main
+git push origin university_instance:main
 
 echo -e "${GREEN}✅ Blog updated successfully!${NC}"

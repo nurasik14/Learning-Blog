@@ -16,7 +16,7 @@ Hopefully, this project will serve as a vital resource for me to facilitate the 
 - **Full Name:** [Nurasyl Serikov](https://github.com/nurik125)
 - **Contact:** [nurasylserikov4@gmail.com](mailto:nurasylserikov4@gmail.com)
 
-- **GitHub:** [nurik125/Hugo-blog-site](https://github.com/nurik125/Hugo-blog-site)
+- **GitHub:** [nurasik14/Learning-Blog](https://github.com/nurasik14/Learning-Blog)
 
 
 ## License

@@ -48,8 +48,8 @@ This project can be run locally with a standard Hugo workflow.
 
 ```bash
 # clone with theme submodule
-git clone --recurse-submodules https://github.com/nurasik14/Hugo-blog-site.git
-cd Hugo-blog-site
+git clone --recurse-submodules https://github.com/nurasik14/Learning-Blog.git
+cd Learning-Blog
 
 # local preview (includes drafts)
 hugo server -D
