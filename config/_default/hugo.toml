@@ -1,40 +1,20 @@
 # -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
-
-theme = "blowfish"
 baseURL = "https://nurasik14.github.io/Learning-Blog"
+title = "Nurasyl's ML Blog"
+theme = "PaperMod"
 publishDir = "docs"
 defaultContentLanguage = "en"
-
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+languageCode = "en-us"
 
 enableRobotsTXT = true
 summaryLength = 40
-
 buildDrafts = false
 buildFuture = false
-
 enableEmoji = true
-
 googleAnalytics = "G-QB2V7XDQG2"
 
-title = "My Progressiong Documentation"
-
-[params.author]
-  name = "Nurasik12"
-  image = "img/author.jpg"
-  headline = "Not a human, nor sane creature"
-  bio = "A little bit about me"
-  links = [
-    { github = "https://github.com/nurasik14" },
-    { linkedin = "https://linkedin.com/in/username" },
-    { instagram = "https://instagram.com/nurasik.12" },
-  ]
-
-
 [pagination]
-  pagerSize = 100
+  pagerSize = 10
 
 [imaging]
   anchor = 'Smart'
@@ -42,8 +22,6 @@ title = "My Progressiong Documentation"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
-  series = "series"
 
 [sitemap]
   changefreq = 'daily'
@@ -53,40 +31,21 @@ title = "My Progressiong Documentation"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[related]
-  threshold = 0
-  toLower = false
-
-    [[related.indices]]
-        name = "tags"
-        weight = 100
-
-    [[related.indices]]
-        name = "categories"
-        weight = 100
-
-    [[related.indices]]
-        name = "series"
-        weight = 50
-
-    [[related.indices]]
-        name = "authors"
-        weight = 20
-
-    [[related.indices]]
-        name = "date"
-        weight = 10
-
-    [[related.indices]]
-      applyFilter = false
-      name = 'fragmentrefs'
-      type = 'fragments'
-      weight = 10
-
-[services]
-  [services.disqus]
-    shortname = 'Nurasik'
-
-[privacy]
-  [privacy.disqus]
-    disable = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    hl_inline = false
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = "monokai"
+    tabWidth = 4
