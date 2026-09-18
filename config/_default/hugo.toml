@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://nurasik14.github.io/ProgressDoc"
+baseURL = "https://nurasik14.github.io/Learning-Blog"
 publishDir = "docs"
 defaultContentLanguage = "en"
 
