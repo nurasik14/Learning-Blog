@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://nurik125.github.io/Hugo-blog-site/"
+baseURL = "https://nurasik14.github.io/ProgressDoc"
 publishDir = "public"
 defaultContentLanguage = "en"
 
@@ -19,7 +19,7 @@ enableEmoji = true
 
 googleAnalytics = "G-QB2V7XDQG2"
 
-title = "Nurasyl's Modular Blog"
+title = "My Progressiong Documentation"
 
 [params.author]
   name = "Nurasik12"
@@ -27,10 +27,9 @@ title = "Nurasyl's Modular Blog"
   headline = "Not a human, nor sane creature"
   bio = "A little bit about me"
   links = [
-    { twitter = "https://twitter.com/" },
-    { youtube = "https://youtube.com/" },
-    { github = "https://github.com/nurik125" },
-    { whatsapp = "https://wa.me/77477512062" }
+    { github = "https://github.com/nurasik14" },
+    { linkedin = "https://linkedin.com/in/username" },
+    { instagram = "https://instagram.com/nurasik.12" },
   ]
 
 

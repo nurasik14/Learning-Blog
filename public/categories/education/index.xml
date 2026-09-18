@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Nurasyl&#39;s Modular Blog</title>
-    <link>https://nurik125.github.io/Hugo-blog-site/categories/education/</link>
-    <description>Recent content in Education on Nurasyl&#39;s Modular Blog</description>
+    <title>Education on My Progressiong Documentation</title>
+    <link>http://localhost:1313/ProgressDoc/categories/education/</link>
+    <description>Recent content in Education on My Progressiong Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 Nurasik12</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nurik125.github.io/Hugo-blog-site/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>© 2026 Nurasik12</copyright>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ProgressDoc/categories/education/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mathematics overview 12th grade NIS Taraz</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/posts/mathematics-overview-12th-grade-nis-taraz/</link>
+      <link>http://localhost:1313/ProgressDoc/posts/mathematics-overview-12th-grade-nis-taraz/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://nurik125.github.io/Hugo-blog-site/posts/mathematics-overview-12th-grade-nis-taraz/</guid>
+      <guid>http://localhost:1313/ProgressDoc/posts/mathematics-overview-12th-grade-nis-taraz/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Probabilities 
     &lt;div id=&#34;probabilities&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -29,20 +29,20 @@
     
     <item>
       <title>Work efficiently with vscode</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/posts/work-efficiently-with-vscode/</link>
+      <link>http://localhost:1313/ProgressDoc/posts/work-efficiently-with-vscode/</link>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://nurik125.github.io/Hugo-blog-site/posts/work-efficiently-with-vscode/</guid>
+      <guid>http://localhost:1313/ProgressDoc/posts/work-efficiently-with-vscode/</guid>
       <description>Explain how to sync obsidian posts and hugo posts using created script</description>
       
     </item>
     
     <item>
       <title>It took me 10&#43; years to realize what I’ll tell you in 8 minutes</title>
-      <link>https://nurik125.github.io/Hugo-blog-site/posts/it-took-me-10&#43;-years-to-realize-what-ill-tell-you-in-8-minutes/</link>
+      <link>http://localhost:1313/ProgressDoc/posts/it-took-me-10&#43;-years-to-realize-what-ill-tell-you-in-8-minutes/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://nurik125.github.io/Hugo-blog-site/posts/it-took-me-10&#43;-years-to-realize-what-ill-tell-you-in-8-minutes/</guid>
+      <guid>http://localhost:1313/ProgressDoc/posts/it-took-me-10&#43;-years-to-realize-what-ill-tell-you-in-8-minutes/</guid>
       <description>Summarize the main takeaways</description>
       
     </item>
