@@ -4,7 +4,9 @@ date: 2026-09-18
 draft: false
 summary: Created Linear Regression from scratch on kaggle to the House Prediction competition. The input data was maximally simplified and not FE was used to focus more on scratch implementation of the algorithm
 tags:
-  - template
+  - ml-engineer
+  - pmle
+  - roadmap
 categories:
   - ml-engineering
   - linear-regression
