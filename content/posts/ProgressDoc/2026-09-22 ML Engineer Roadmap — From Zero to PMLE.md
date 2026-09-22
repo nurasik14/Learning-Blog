@@ -1,11 +1,17 @@
 ---
-title: "ML Engineer Roadmap — From Zero to PMLE in 6 Months"
-date: 2026-09-18
+title: ML Engineer Roadmap — From Zero to PMLE in 6 Months
+date: 2026-09-22
 draft: false
-summary: "Comprehensive 6-month roadmap to go from AI application developer to ML Engineer ready for Google PMLE"
-tags: ["roadmap", "ml-engineer", "pmle", "google-cloud", "career"]
-categories: ["ml-engineering"]
-author: "Nurasik12"
+summary: Comprehensive 6-month roadmap to go from AI application developer to ML Engineer ready for Google PMLE
+tags:
+  - roadmap
+  - ml-engineer
+  - pmle
+  - google-cloud
+  - career
+categories:
+  - ml-engineering
+author: Nurasik12
 ---
 
 # ML Engineer Roadmap: From Zero to PMLE in 6 Months
