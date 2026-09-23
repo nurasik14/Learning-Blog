@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Nurasyl's ML Blog</title><link>https://nurasik14.github.io/Learning-Blog/post/</link><description>Recent content from Nurasyl's ML Blog</description><generator>Hugo</generator><language>en-us</language><managingEditor>nurasylserikov4@gmail.com (Nurasik12)</managingEditor><webMaster>nurasylserikov4@gmail.com (Nurasik12)</webMaster><copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright><lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://nurasik14.github.io/Learning-Blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>ML Engineer Roadmap — From Zero to PMLE in 6 Months</title><link>https://nurasik14.github.io/Learning-Blog/post/2026-09-22-ml-engineer-roadmap--from-zero-to-pmle/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><author>nurasylserikov4@gmail.com (Nurasik12)</author><guid>https://nurasik14.github.io/Learning-Blog/post/2026-09-22-ml-engineer-roadmap--from-zero-to-pmle/</guid><description>
+<![CDATA[<h1>ML Engineer Roadmap — From Zero to PMLE in 6 Months</h1><p>Author: Nurasik12(nurasylserikov4@gmail.com)</p>
+        
+          Comprehensive 6-month roadmap to go from AI application developer to ML Engineer ready for Google PMLE
+        
+        <hr><p>Published on 2026-09-22 at <a href='https://nurasik14.github.io/Learning-Blog/'>Nurasyl's ML Blog</a>, last modified on 2026-09-22</p>]]></description><category>ml-engineering</category></item><item><title>Linear Regression from Scratch</title><link>https://nurasik14.github.io/Learning-Blog/post/2026-09-22-linear-regression-from-scratch/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><author>nurasylserikov4@gmail.com (Nurasik12)</author><guid>https://nurasik14.github.io/Learning-Blog/post/2026-09-22-linear-regression-from-scratch/</guid><description>
+<![CDATA[<h1>Linear Regression from Scratch</h1><p>Author: Nurasik12(nurasylserikov4@gmail.com)</p>
+        
+          Created Linear Regression from scratch on kaggle to the House Prediction competition. The input data was maximally simplified and not FE was used to focus more on scratch implementation of the algorithm
+        
+        <hr><p>Published on 2026-09-22 at <a href='https://nurasik14.github.io/Learning-Blog/'>Nurasyl's ML Blog</a>, last modified on 2026-09-22</p>]]></description><category>ml-engineering</category><category>linear-regression</category><category>regression</category></item><item><title>University English</title><link>https://nurasik14.github.io/Learning-Blog/post/2026-09-21-university-english/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><author>nurasylserikov4@gmail.com (Nurasik12)</author><guid>https://nurasik14.github.io/Learning-Blog/post/2026-09-21-university-english/</guid><description>
+<![CDATA[<h1>University English</h1><p>Author: Nurasik12(nurasylserikov4@gmail.com)</p>
+        
+          <h2 id="introduction">
+<a class="header-anchor" href="#introduction"></a>
+Introduction
+</h2><h2 id="key-points">
+<a class="header-anchor" href="#key-points"></a>
+Key Points
+</h2><h2 id="questions">
+<a class="header-anchor" href="#questions"></a>
+Questions
+</h2><ul>
+<li>Does the Dating apps itself too broad topic? Do we have to shrink it to the specific geographic area? NO</li>
+<li>Can we use AI to analyze the articles for key points and then confirm them by ourselves to ensure AI is not lying? YES</li>
+<li>Is there font requirements for reference list listing? IDK</li>
+</ul>
+<h2 id="summary">
+<a class="header-anchor" href="#summary"></a>
+Summary
+</h2><hr>
+<p><em>Stay tuned for more updates on my ML engineering journey!</em></p>
+        
+        <hr><p>Published on 2026-09-21 at <a href='https://nurasik14.github.io/Learning-Blog/'>Nurasyl's ML Blog</a>, last modified on 2026-09-21</p>]]></description><category>dating-apps</category><category>romance</category><category>dating</category><category>infographics</category><category>essay</category><category>research</category></item><item><title>Day 001 — Setting Up Hugo Blog</title><link>https://nurasik14.github.io/Learning-Blog/post/2026-09-18-day-001/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><author>nurasylserikov4@gmail.com (Nurasik12)</author><guid>https://nurasik14.github.io/Learning-Blog/post/2026-09-18-day-001/</guid><description>
+<![CDATA[<h1>Day 001 — Setting Up Hugo Blog</h1><p>Author: Nurasik12(nurasylserikov4@gmail.com)</p>
+        
+          My first post about setting up a Hugo blog for documenting my ML journey
+        
+        <hr><p>Published on 2026-09-18 at <a href='https://nurasik14.github.io/Learning-Blog/'>Nurasyl's ML Blog</a>, last modified on 2026-09-18</p>]]></description><category>meta</category></item></channel></rss>

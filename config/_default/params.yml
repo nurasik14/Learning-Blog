@@ -1,0 +1,466 @@
+########################################
+# Basic Configuration
+########################################
+
+menu:
+  - name: home
+    url: ""
+    icon:
+  - name: archives
+    url: "archives"
+    icon:
+  - name: about
+    url: "about"
+    icon:
+
+friends:
+  shuffle: false
+
+mainSections: ["post"]
+yearFormat: "2006"
+monthFormat: "2006-01"
+dateFormat: "2006-01-02"
+timeFormat: "2006-01-02 15:04:05"
+
+author: Nurasik12
+email: nurasylserikov4@gmail.com
+description: "Documenting my ML engineering journey — from AI app developer to ML Engineer. CS student at CityUHK preparing for Google PMLE."
+subtitle:
+  typing:
+    enable: true
+    strings:
+      - "Documenting my ML engineering journey"
+      - "From AI app developer to ML Engineer"
+      - "Preparing for Google PMLE"
+      - "CS student at CityUHK"
+    typeSpeed: 100
+    backSpeed: 50
+    backDelay: 2000
+    startDelay: 300
+    loop: true
+    shuffle: true
+    showCursor: true
+    cursorChar: "|"
+    smartBackspace: false
+  text: "Documenting my ML engineering journey"
+
+banner: "images/banner.webp"
+avatar: "avatar.webp"
+
+cover:
+toc: true
+
+open_graph:
+  enable: true
+  options:
+
+excerpt_link: Read More
+
+copyright:
+
+footer:
+  since: 2026
+  powered: true
+  count: true
+  busuanzi: true
+  icon:
+    url: "../images/taichi.png"
+    rotate: true
+    mask: true
+
+sidebar:
+  position: right
+  menu: true
+  article:
+    show_common: true
+
+social:
+  email: mailto:nurasylserikov4@gmail.com
+  github: https://github.com/nurasik14
+  linkedin: https://linkedin.com/in/username
+  instagram: https://instagram.com/nurasik.12
+
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - recent_posts
+
+category_limits: 10
+tag_limits: 10
+recent_posts_limits: 5
+tagcloud_limits: 20
+
+only_show_capsule_in_index: false
+uppercase_capsule: true
+
+show_update_time: false
+
+summary:
+  enable: false
+  style: 'subtitle'
+
+rss:
+  limit: 10
+  showFullContent: false
+  showCopyright: false
+
+sort_order:
+  taxonomy:
+    category: date-reverse
+    tag: date-reverse
+  archive: date-reverse
+  home: default
+
+paginate:
+  archive:
+  post:
+
+########################################
+# CSS
+########################################
+
+layout:
+  max_width: 1350px
+
+triangle_badge:
+  enable: false
+  icon: github
+  link: https://github.com/nurasik14/Learning-Blog
+
+anchor_icon:
+
+reimu_cursor:
+  enable: true
+  cursor:
+    default: ../images/cursor/reimu-cursor-default.png
+    pointer: ../images/cursor/reimu-cursor-pointer.png
+    text: ../images/cursor/reimu-cursor-text.png
+
+icon_font: 4552607_ex15nbittbh
+
+custom_font:
+  enable: false
+  article:
+  code:
+
+font:
+  enable: true
+  article:
+    - Mulish
+    - Noto Serif SC
+  code:
+    - Ubuntu Mono
+
+local_font:
+  article:
+    - "-apple-system"
+    - PingFang SC
+    - Microsoft YaHei
+    - sans-serif
+  code:
+    - Menlo
+    - Monaco
+    - Consolas
+    - monospace
+
+dark_mode:
+  button: true
+  type: auto
+
+########################################
+# Analytics
+########################################
+
+baidu_analytics: false
+google_analytics: G-QB2V7XDQG2
+clarity: false
+
+########################################
+# Markdown Display
+########################################
+
+mermaid:
+  zoom: false
+
+code_block:
+  expand: true
+
+clipboard:
+  success:
+    en: Copy successfully (*^▽^*)
+  fail:
+    en: Copy failed (ﾟ⊿ﾟ)ﾂ
+  copyright:
+    enable: false
+    count: 50
+    license_type: by-nc-sa
+
+math:
+  katex:
+    enable: true
+  mathjax:
+    enable: false
+
+anchor:
+  explicit:
+    enable: false
+    marker: "{#anchor-"
+    prefix: "anchor-"
+  auto:
+    enable: false
+    length: 60
+
+########################################
+# Comment system
+########################################
+
+comment:
+  title:
+    en: Leave a comment
+  default:
+
+valine:
+  enable: false
+
+waline:
+  enable: false
+
+twikoo:
+  enable: false
+
+gitalk:
+  enable: false
+
+giscus:
+  enable: false
+
+disqus:
+  enable: false
+
+utterances:
+  enable: false
+
+beaudar:
+  enable: false
+
+########################################
+# Search
+########################################
+
+algolia_search:
+  enable: false
+
+########################################
+# Animation
+########################################
+
+preloader:
+  enable: true
+  text:
+    en: Loading...
+  icon:
+  rotate: true
+
+animation:
+  enable: true
+  options:
+    header:
+      title: slide-up
+      subTitle: slide-down
+    home:
+      post: fade-up
+      widget: fade-up
+      sidebar: fade-up
+    article:
+      whole: fade-up
+      date: zoom-in
+      category: zoom-in
+      tag: zoom-in
+      comment: zoom-in
+      reading: zoom-in
+      nav: fade-up
+    archive:
+      whole: fade-up
+      tag: zoom-in
+      category: zoom-in
+      section: fade-up
+      nav: fade-up
+
+firework:
+  enable: true
+  disable_on_mobile: false
+  options:
+    excludeElements: ["a", "button"]
+    particles:
+      - shape: circle
+        move: ["emit"]
+        easing: easeOutExpo
+        colors: ["var(--red-1)", "var(--red-2)", "var(--red-3)", "var(--red-4)"]
+        number: 20
+        duration: [1200, 1800]
+        shapeOptions:
+          radius: [16, 32]
+          alpha: [0.3, 0.5]
+      - shape: circle
+        move: ["diffuse"]
+        easing: easeOutExpo
+        colors: ["var(--red-0)"]
+        number: 1
+        duration: [1200, 1800]
+        shapeOptions:
+          radius: 20
+          alpha: [0.2, 0.5]
+          lineWidth: 6
+
+########################################
+# Extended features
+########################################
+
+article_copyright:
+  enable: false
+
+top:
+  enable: true
+  position: right
+  icon:
+    url: "../images/taichi.png"
+    rotate: true
+    mask: true
+
+outdate:
+  enable: false
+  daysAgo: 180
+  message:
+    en: This article was last updated on {time}. Please note that the content may no longer be applicable.
+
+icp:
+  icpnumber:
+  beian:
+  recordcode:
+
+moe_icp:
+  icpnumber:
+
+sponsor:
+  enable: false
+
+share:
+
+home_categories:
+  enable: false
+
+########################################
+# Experimental features
+########################################
+
+injector:
+  head_begin:
+  head_end:
+  body_begin:
+  body_end:
+  sidebar_begin:
+  sidebar_end:
+
+pjax:
+  enable: false
+
+quicklink:
+  enable: false
+  timeout: 3000
+  priority: true
+  ignores: []
+
+service_worker:
+  enable: false
+
+live2d:
+  enable: false
+  position: left
+
+live2d_widgets:
+  enable: false
+  position: left
+
+pace:
+  enable: true
+
+player:
+  disable_on_mobile: false
+  position: before_sidebar
+  aplayer:
+    enable: false
+    options:
+      audio: []
+      fixed: true
+  meting:
+    enable: false
+    options:
+      id:
+      server: netease
+      type: playlist
+      auto:
+
+pangu:
+  enable: false
+
+########################################
+# Theme
+########################################
+
+material_theme:
+  enable: false
+
+internal_theme:
+  light:
+    --red-0: '#ff0000'
+    --red-1: '#ff5252'
+    --red-2: '#ff7c7c'
+    --red-3: '#ffafaf'
+    --red-4: '#ffd0d0'
+    --red-5: '#ffecec'
+    --red-5-5: '#fff3f3'
+    --red-6: '#fff7f7'
+    --color-red-6-shadow: 'rgba(255, 78, 78, 0.6)'
+    --color-red-3-shadow: 'rgba(255, 78, 78, 0.3)'
+
+    --highlight-nav: "#f5f5f5"
+    --highlight-scrollbar: "#d6d6d6"
+    --highlight-background: "#fdfdfd"
+    --highlight-selection: "#e9e9e988"
+    --highlight-foreground: "#24292e"
+    --highlight-comment: "#7d7d7d"
+    --highlight-red: "#d73a49"
+    --highlight-orange: "#e36209"
+    --highlight-yellow: "#cb911d"
+    --highlight-green: "#22863a"
+    --highlight-aqua: "#005cc5"
+    --highlight-blue: "#032f62"
+    --highlight-purple: "#6f42c1"
+    --highlight-deletion: "#b31d28"
+    --highlight-deletion-bg: "#ffeef0"
+    --highlight-addition: "#22863a"
+    --highlight-addition-bg: "#f0fff4"
+  dark:
+    --red-4: 'rgba(255, 208, 208, 0.5)'
+    --red-5: 'rgba(255,228,228,0.15)'
+    --red-5-5: 'rgba(255,236,236,0.05)'
+    --red-6: 'rgba(255, 243, 243, 0.2)'
+
+    --highlight-nav: "#222830"
+    --highlight-scrollbar: "#454d59"
+    --highlight-background: "#1e2027"
+    --highlight-selection: "#51515155"
+    --highlight-foreground: "#c9d1d9"
+    --highlight-comment: "#8b949e"
+    --highlight-red: "#ff7b72"
+    --highlight-orange: "#ffa657"
+    --highlight-yellow: "#ffcc66"
+    --highlight-green: "#7ee787"
+    --highlight-aqua: "#a5d6ff"
+    --highlight-blue: "#79c0ff"
+    --highlight-purple: "#d2a8ff"
+    --highlight-deletion: "#ffa198"
+    --highlight-deletion-bg: "#490202"
+    --highlight-addition: "#7ee787"
+    --highlight-addition-bg: "#04260f"

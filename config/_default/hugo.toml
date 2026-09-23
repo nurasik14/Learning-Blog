@@ -1,7 +1,7 @@
 # -- Site Configuration --
 baseURL = "https://nurasik14.github.io/Learning-Blog"
 title = "Nurasyl's ML Blog"
-theme = "PaperMod"
+theme = "reimu"
 publishDir = "docs"
 defaultContentLanguage = "en"
 languageCode = "en-us"
@@ -16,9 +16,6 @@ googleAnalytics = "G-QB2V7XDQG2"
 [pagination]
   pagerSize = 10
 
-[imaging]
-  anchor = 'Smart'
-
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -30,22 +27,3 @@ googleAnalytics = "G-QB2V7XDQG2"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    hl_inline = false
-    lineAnchors = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    noHl = false
-    style = "monokai"
-    tabWidth = 4

@@ -7,7 +7,7 @@ import logging
 posts_dir = os.path.expanduser("~/Projects/Learning-Blog/temp_posts")
 attachments_dir = os.path.expanduser("~/ProgressDoc/ProgressDoc/attachments")
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(filename="script_debug.log", level=logging.INFO)
 
 # Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):

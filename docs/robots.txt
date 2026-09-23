@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://nurasik14.github.io/Learning-Blog/sitemap.xml
